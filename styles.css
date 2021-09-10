@@ -6,6 +6,7 @@
 ul {
     list-style-type: none;
     text-align: center;
+    background-color: silver;
 }
 
 li {
@@ -15,12 +16,20 @@ li {
     margin: 15px;
 }
 
+ol {
+    list-style-type: none;
+}
+
 a {
     text-decoration: none;
 }
 
 a:hover {
     color: green;
+}
+
+a:active {
+    color: yellow;
 }
 
 /* img {
@@ -35,7 +44,14 @@ a:hover {
 }
 
 .second-header {
+    background-color: grey;
     text-align: center;
+    padding: 20px;
+}
+
+.third-header {
+    background-color: grey;
+    padding: 20px;
 }
 
 .btn {
