@@ -38,6 +38,10 @@ a:hover {
     text-align: center;
 }
 
-.paragraph {
-    text-align: center;
+.btn {
+    padding: 15px;
+    background-color: blue;
 }
+/* .paragraph {
+
+} */
