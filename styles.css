@@ -23,6 +23,11 @@ a:hover {
     color: green;
 }
 
+/* img {
+    max-width: 100%;
+    height: auto;
+} */
+
 .main-header {
     text-align: center;
     background-color: grey;
